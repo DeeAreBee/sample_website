@@ -1,3 +1,3 @@
-<strong>README</strong>
+<title><strong>README</strong></title>
 
-<emphasis>This is a readme file</emphasis>
+<p><emphasis>This is a readme file</emphasis></p>
